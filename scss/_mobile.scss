@@ -80,4 +80,19 @@
 	.projects {
 		grid-template-columns: 1fr;
 	}
+
+	main#contact {
+		margin-top: 10vh;
+
+		.lg-heading {
+			font-size: 4rem;
+		}
+
+		.boxes {
+			div {
+				width: auto;
+				font-size: 14px;
+			}
+		}
+	}
 }
